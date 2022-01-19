@@ -83,13 +83,13 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dolaji-op&show_icons=true&locale=en&layout=compact"
+    alt="dolaji-op" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-pw&show_icons=true&locale=en"
-    alt="adam-pw" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dolaji-op&show_icons=true&locale=en"
+    alt="dolaji-op" /></p>
 
 <br>
 
